@@ -1,0 +1,7 @@
+C:\Users\opilane\source\repos\Lesson2_string\Lesson2_string\bin\Debug\Lesson2_string.exe.config
+C:\Users\opilane\source\repos\Lesson2_string\Lesson2_string\bin\Debug\Lesson2_string.exe
+C:\Users\opilane\source\repos\Lesson2_string\Lesson2_string\bin\Debug\Lesson2_string.pdb
+C:\Users\opilane\source\repos\Lesson2_string\Lesson2_string\obj\Debug\Lesson2_string.csprojResolveAssemblyReference.cache
+C:\Users\opilane\source\repos\Lesson2_string\Lesson2_string\obj\Debug\Lesson2_string.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Lesson2_string\Lesson2_string\obj\Debug\Lesson2_string.exe
+C:\Users\opilane\source\repos\Lesson2_string\Lesson2_string\obj\Debug\Lesson2_string.pdb
